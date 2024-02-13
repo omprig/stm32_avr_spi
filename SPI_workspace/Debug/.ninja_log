@@ -1,0 +1,21 @@
+# ninja log v5
+782	794	7054434011416159	D:/iar_projects/SPI_workspace/Debug/Exe/RTC_SPI.hex	d4288e8ae465d83
+2	683	7054434010177406	D:/iar_projects/SPI_workspace/Debug/Obj/src/main.o	9a778c5477dce1d8
+19	52	7054434003956965	D:/iar_projects/SPI_workspace/Debug/Obj/startup/startup_stm32f411xe.o	a67c12a1391cdecf
+8	570	7054434009060401	D:/iar_projects/SPI_workspace/Debug/Obj/src/CMSIS/system_stm32f4xx.o	8fe2b638671c05e8
+688	776	7054434011157203	D:/iar_projects/SPI_workspace/Debug/Exe/RTC_SPI.out	410fff7069d4da07
+9	48	7054440888684388	D:/iar_projects/SPI_workspace/Debug/Obj/startup/startup_stm32f411xe.o	a67c12a1391cdecf
+14	288	7054440891002529	D:/iar_projects/SPI_workspace/Debug/Obj/src/CMSIS/system_stm32f4xx.o	8fe2b638671c05e8
+3	332	7054440891431359	D:/iar_projects/SPI_workspace/Debug/Obj/src/main.o	9a778c5477dce1d8
+339	440	7054440892553179	D:/iar_projects/SPI_workspace/Debug/Exe/RTC_SPI.out	410fff7069d4da07
+448	467	7054440892891888	D:/iar_projects/SPI_workspace/Debug/Exe/RTC_SPI.hex	d4288e8ae465d83
+11	42	7054441859822761	D:/iar_projects/SPI_workspace/Debug/Obj/startup/startup_stm32f411xe.o	a67c12a1391cdecf
+1	181	7054441861099336	D:/iar_projects/SPI_workspace/Debug/Obj/src/CMSIS/system_stm32f4xx.o	8fe2b638671c05e8
+7	218	7054441861508239	D:/iar_projects/SPI_workspace/Debug/Obj/src/main.o	9a778c5477dce1d8
+226	292	7054441862266631	D:/iar_projects/SPI_workspace/Debug/Exe/RTC_SPI.out	410fff7069d4da07
+301	319	7054441862599075	D:/iar_projects/SPI_workspace/Debug/Exe/RTC_SPI.hex	d4288e8ae465d83
+15	1000	7055215528170519	D:/iar_projects/SPI_workspace/Debug/Obj/startup/startup_stm32f411xe.o	a67c12a1391cdecf
+992	1981	7055215544004902	D:/iar_projects/SPI_workspace/Debug/Obj/src/main.o	9a778c5477dce1d8
+232	2316	7055215547252964	D:/iar_projects/SPI_workspace/Debug/Obj/src/CMSIS/system_stm32f4xx.o	8fe2b638671c05e8
+2342	2985	7055215554073753	D:/iar_projects/SPI_workspace/Debug/Exe/RTC_SPI.out	410fff7069d4da07
+2993	3415	7055215558434915	D:/iar_projects/SPI_workspace/Debug/Exe/RTC_SPI.hex	d4288e8ae465d83

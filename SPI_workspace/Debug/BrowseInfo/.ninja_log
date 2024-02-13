@@ -1,0 +1,18 @@
+# ninja log v5
+1490	2261	6985368741492063	D:/iar_projects/SPI_workspace/Debug/BrowseInfo/src/CMSIS/system_stm32f4xx.pbi	78772ed5c5993693
+540	909	7055213679053065	D:/iar_projects/SPI_workspace/Debug/BrowseInfo/RTC_SPI.pbd	2b100227477a83de
+993	1631	6985262201916886	D:/iar_projects/SPI_workspace/Debug/BrowseInfo/main.pbi	7be2361c12d84d62
+1	988	6985262190000000	D:/iar_projects/SPI_workspace/Debug/BrowseInfo/main.xcl	14f9f0dd66edadbe
+1	1484	6985368730000000	D:/iar_projects/SPI_workspace/Debug/BrowseInfo/src/CMSIS/system_stm32f4xx.xcl	2c75f3d75af5b1bc
+913	3740	7055213706169719	D:/iar_projects/SPI_workspace/Debug/BrowseInfo/RTC_SPI.pbw	8dcc61bf97550c37
+17	536	7055213675290650	D:/iar_projects/SPI_workspace/Debug/BrowseInfo/src/main.pbi	715f168375d22995
+32	1536	6985368730000000	D:/iar_projects/SPI_workspace/Debug/BrowseInfo/src/main.xcl	775a3a747607ff0a
+2	133	7055213759969482	D:/iar_projects/SPI_workspace/Debug/BrowseInfo/src/main.pbi	715f168375d22995
+136	207	7055213760715889	D:/iar_projects/SPI_workspace/Debug/BrowseInfo/RTC_SPI.pbd	2b100227477a83de
+212	1095	7055213768994249	D:/iar_projects/SPI_workspace/Debug/BrowseInfo/RTC_SPI.pbw	8dcc61bf97550c37
+1	288	7056165067740445	D:/iar_projects/SPI_workspace/Debug/BrowseInfo/src/main.pbi	715f168375d22995
+291	526	7056165070126422	D:/iar_projects/SPI_workspace/Debug/BrowseInfo/RTC_SPI.pbd	2b100227477a83de
+530	2743	7056165091579126	D:/iar_projects/SPI_workspace/Debug/BrowseInfo/RTC_SPI.pbw	8dcc61bf97550c37
+1	131	7056165959145244	D:/iar_projects/SPI_workspace/Debug/BrowseInfo/src/main.pbi	715f168375d22995
+134	210	7056165959963040	D:/iar_projects/SPI_workspace/Debug/BrowseInfo/RTC_SPI.pbd	2b100227477a83de
+214	1120	7056165968058038	D:/iar_projects/SPI_workspace/Debug/BrowseInfo/RTC_SPI.pbw	8dcc61bf97550c37

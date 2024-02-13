@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>3083629139</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\cmsis_iar.h</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup\startup_stm32f411xe.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\CMSIS\system_stm32f4xx.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$PROJ_DIR$\stm32f411xE.icf</file>
+            <file>$PROJ_DIR$\inc\core_cmInstr.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+            <file>$PROJ_DIR$\inc\system_stm32f4xx.h</file>
+            <file>$PROJ_DIR$\src\CMSIS\system_stm32f4xx.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\RTC_SPI.out</file>
+            <file>$PROJ_DIR$\src\main.c</file>
+            <file>$PROJ_DIR$\inc\stm32f4xx.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\inc\core_cmFunc.h</file>
+            <file>$PROJ_DIR$\inc\core_cmSimd.h</file>
+            <file>$PROJ_DIR$\Debug\List\RTC_SPI.map</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\main.o</file>
+            <file>$PROJ_DIR$\Debug\Exe\RTC_SPI.hex</file>
+            <file>$PROJ_DIR$\inc\core_cm4.h</file>
+            <file>$PROJ_DIR$\startup\startup_stm32f411xe.s</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\src\CMSIS\system_stm32f4xx.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 5</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 17 26 23 4 2 28 14 9 8 0 10 19 20 12</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\RTC_SPI.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 21</file>
+                </tool>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 25</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 7 24 3 5 18 1 11 22</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 24</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 17 26 23 4 2 28 14 9 8 0 10 19 20 12 6</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\RTC_SPI.hex</name>
+            <inputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 15</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\startup\startup_stm32f411xe.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 3</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 21 15</file>
+                </tool>
+            </outputs>
+        </file>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>

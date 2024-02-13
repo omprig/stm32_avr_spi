@@ -1,0 +1,16 @@
+D:\iar_projects\SPI_workspace\Debug\BrowseInfo\src\CMSIS\system_stm32f4xx.pbi: \
+  D:\iar_projects\SPI_workspace\src\CMSIS\system_stm32f4xx.c \
+  D:\iar_projects\SPI_workspace\inc\stm32f4xx.h \
+  D:\iar_projects\SPI_workspace\inc\core_cm4.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\stdint.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Product.h \
+  D:\iar_projects\SPI_workspace\inc\core_cmInstr.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\aarch32\cmsis_iar.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\aarch32\iccarm_builtin.h \
+  D:\iar_projects\SPI_workspace\inc\core_cmFunc.h \
+  D:\iar_projects\SPI_workspace\inc\core_cmSimd.h \
+  D:\iar_projects\SPI_workspace\inc\system_stm32f4xx.h
